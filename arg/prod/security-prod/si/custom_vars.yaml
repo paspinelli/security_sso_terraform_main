@@ -1,0 +1,10 @@
+owner: "Security"
+environment: "Production"
+business_unit: "Security"
+description: "Security Role from tf"
+external: false
+contingency: false
+session_duration: "PT12H"
+inline_policy: "policy.tpl"
+account_id: "759751217449"
+group_name: "XXX_arg_security_security_analyst@XXX.local"

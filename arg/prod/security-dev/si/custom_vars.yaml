@@ -1,0 +1,11 @@
+owner: "Security"
+environment: "Production"
+business_unit: "Security"
+description: "Security Role from tf"
+external: false
+contingency: false
+session_duration: "PT12H"
+account_id: "234242423"
+group_name: "xxx_security_security_analyst@xxx.local"
+aws_policies:
+  - "arn:aws:iam::aws:policy/AdministratorAccess"
